@@ -18,7 +18,7 @@ SubStrike is a comprehensive subdomain reconnaissance tool for penetration teste
 1. Clone the repository:
     ```bash
     git clone https://github.com/byteoverride/SubStrike.git
-    cd substrike
+    cd SubStrike
     ```
 
 2. Install dependencies:
