@@ -51,10 +51,12 @@ python substrike.py [options]
 	```bash	
 		python3 substrike.py -u example.com --wordlist wordlist.txt --extensions html php
 	```
+ 
 ##Detect technologies on subdomains using Wappalyzer:
 	```bash
 		python3 substrike.py -u example.com --tech
 	```
+ 
 ##Save all results to a file:
 	```bash
 		python3 substrike.py -u example.com -o results.txt
